@@ -1,0 +1,10 @@
+nesto nesto nesto 
+sto se nalazi u fajlu1
+.
+.
+.
+dodala pomocu komande nano
+.
+.
+.
+ponovo editor
